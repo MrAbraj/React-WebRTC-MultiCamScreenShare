@@ -2,13 +2,12 @@
 
 Multi-peer connections with React WebRTC, featuring multiple webcams and screen sharing capabilities, along with chat functionalities, session leave and end options using RTC DataChannel.
 
+## Demo
+
 Here is a cool demonstration of the feature:
 
-
-[**Demo Video**](https://www.youtube.com/watch?v=xUCPFq0HKDI)
-
-
-[![Watch the video](https://img.youtube.com/vi/xUCPFq0HKDI/maxresdefault.jpg)](https://www.youtube.com/watch?v=xUCPFq0HKDI)
+[**Watch the full demo video**](https://www.youtube.com/watch?v=xUCPFq0HKDI)
+![demo-gif](./demo/demo.gif)
 
 ## Overview
 
